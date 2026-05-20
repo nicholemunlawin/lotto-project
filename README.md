@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project has moved to the main portfolio repository: [Portfolio Projects](https://github.com/nicholemunlawin/portfolio-projects/tree/main/python-projects/lotto-project). This repository is archived and kept for history/reference.
+
 # PCSO Lotto Generator
 
 Small Python app for generating a PCSO lotto combination that has not appeared in the scraped history for the selected game.
